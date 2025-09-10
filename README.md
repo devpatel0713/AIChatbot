@@ -35,7 +35,8 @@ npm install
 ```
 
 ### 3. Run the development server
-```bash ng serve
+```bash
+ng serve
 ```
 Open http://localhost:4200 in your browser.
 
