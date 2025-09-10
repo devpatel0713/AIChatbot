@@ -5,7 +5,7 @@ It allows users to send prompts to different AI providers — **OpenAI**, **Hugg
 
 ---
 
-## ✨ Features
+## Features
 - Switch between **Demo**, **OpenAI**, and **Hugging Face** providers  
 - Enter custom **API keys** for OpenAI or Hugging Face  
 - Submit chat prompts and receive responses in real time  
@@ -14,7 +14,7 @@ It allows users to send prompts to different AI providers — **OpenAI**, **Hugg
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Angular** (standalone components, Reactive Forms)  
 - **RxJS**  
 - **HTTP Client** (for API calls)  
@@ -22,7 +22,7 @@ It allows users to send prompts to different AI providers — **OpenAI**, **Hugg
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
