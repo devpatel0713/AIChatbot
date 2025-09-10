@@ -28,3 +28,11 @@ It allows users to send prompts to different AI providers — **OpenAI**, **Hugg
 ```bash
 git clone https://github.com/devpatel0713/AIChatbot.git
 cd AIChatbot
+
+### 2. nstall dependencies
+```bash npm install
+
+### 3. Run the development server
+ng serve
+Open http://localhost:4200
+ in your browser.
